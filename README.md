@@ -3,10 +3,10 @@
 ### DATE: 
 
 ## AIM: 
-### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
+ To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
 ## REQUIREMENTS:
-### System - Windows 7 or higher, 1 GB RAM.
+ System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 
@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![241152358-6f345e0a-64fe-49a1-9c5e-de21413bfca3](https://github.com/SandhiyaR1/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497571/09f7572d-bc9f-416c-a00c-565b064a8e4d)
 
-### Name:
-### Register Number:
+![241152373-fe588e75-821f-4ca1-b01d-77f97f6c5ede](https://github.com/SandhiyaR1/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497571/cea308a0-b210-4a94-9b7e-64b83dd61bc5)
+
+![241152384-ee8511ec-3d61-42b6-b814-f2552a9c15d0](https://github.com/SandhiyaR1/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497571/6bbc5706-59f8-4db4-9bee-3fb2fc15f6ae)
+
+### Name: SANDHIYA R
+### Register Number: 212222230129
 
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+Thus the simulation on the Postprocessing in additive manufacturing is completed.
